@@ -1,0 +1,13 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.07.03"]
+[White "piotrbla"]
+[Black "SaralB"]
+[Result "1-0"]
+[WhiteElo "1128"]
+[BlackElo "1043"]
+[TimeControl "15|10"]
+[Termination "piotrbla wygrał przez rezygnację przeciwnika"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nc3 d5 4.exd5 Nxd5 5.Nxe5 Qe7 6.d4 Nxc3 7.bxc3 b6 8.Bb5+ c6 9.Ba4 Bb7 10.O-O f6
+ 11.Nf3 Qe6 12.Re1 1-0
